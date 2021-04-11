@@ -2,6 +2,7 @@
 
 This is a set of flight simulator rudder pedals that I built from scratch. My copy is currently functional and being used in Microsoft Flight Simulator. This is a fairly crude design and is provided as-is with no support. Expect to iterate and improve the design. 
 
+https://www.thingiverse.com/thing:4824134
 https://youtu.be/vinw3yeDGUQ
 
 ## Materials
